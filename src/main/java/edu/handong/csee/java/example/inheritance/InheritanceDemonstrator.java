@@ -7,6 +7,7 @@ public class InheritanceDemonstrator {
 		 s.setName("Warren Peace");
 		 s.setStudentNumber(1234);
 		 s.writeOutput();
+		 
 	}
 
 }
